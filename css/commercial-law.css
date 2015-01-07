@@ -1,7 +1,7 @@
 .version.commercial_law /* version checker */
 {
-	color: #00001D;
-	background-color: #82C706;
+	color: #0000E5;
+	background-color: #907408;
 }
 
 .html
@@ -21,6 +21,20 @@
 	padding-bottom: 577px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u668
+{
+	z-index: 141;
+	width: 615px;
+	top: 46px;
+	left: 50%;
+	margin-left: -460px;
+}
+
+#u668_img
+{
+	padding-right: 106px;
 }
 
 #menuu205
@@ -972,20 +986,6 @@
 	padding-bottom: 0px;
 	min-height: 17px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u668
-{
-	z-index: 141;
-	width: 404px;
-	top: 55px;
-	left: 50%;
-	margin-left: -369px;
-}
-
-#u668_img
-{
-	padding-right: 70px;
 }
 
 #u677
