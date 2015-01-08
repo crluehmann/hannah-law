@@ -1,59 +1,61 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1420748336833">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1420753194390">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="master_a-master.css" crc="247351823" ref="about-the-firm:contact-us:elizabeth-a.-stuart:publications:christina-dill:what-our-clients-say:blog:matt-hood:fredrick-a.-stuart:commercial-law:disclaimer:gordon-s.-johnston:andrew-h.-stuart:intellectual-property:index:attorneys:trial---appellate-work:privacy-statement:practice-areas:terms-and-conditions:business-disputes:labor--employment-law"/>
-    <file name="about-the-firm.css" crc="4027463090" ref="about-the-firm"/>
-    <file name="iefonts_about-the-firm.css" crc="109619833" ref="about-the-firm"/>
-    <file name="contact-us.css" crc="3843610186" ref="contact-us"/>
-    <file name="iefonts_contact-us.css" crc="3788689740" ref="contact-us"/>
-    <file name="elizabeth-a_-stuart.css" crc="500288418" ref="elizabeth-a.-stuart"/>
-    <file name="iefonts_elizabeth-a_-stuart.css" crc="4203781982" ref="elizabeth-a.-stuart"/>
-    <file name="publications.css" crc="3784554511" ref="publications"/>
-    <file name="iefonts_publications.css" crc="3861167576" ref="publications"/>
-    <file name="christina-dill.css" crc="4205276344" ref="christina-dill"/>
-    <file name="iefonts_christina-dill.css" crc="393300886" ref="christina-dill"/>
-    <file name="what-our-clients-say.css" crc="411098158" ref="what-our-clients-say"/>
-    <file name="iefonts_what-our-clients-say.css" crc="3840779083" ref="what-our-clients-say"/>
-    <file name="blog.css" crc="4028016347" ref="blog"/>
-    <file name="iefonts_blog.css" crc="4252645480" ref="blog"/>
-    <file name="matt-hood.css" crc="23924814" ref="matt-hood"/>
-    <file name="iefonts_matt-hood.css" crc="484288412" ref="matt-hood"/>
-    <file name="fredrick-a_-stuart.css" crc="247381168" ref="fredrick-a.-stuart"/>
-    <file name="iefonts_fredrick-a_-stuart.css" crc="4194964789" ref="fredrick-a.-stuart"/>
-    <file name="commercial-law.css" crc="504132310" ref="commercial-law"/>
-    <file name="iefonts_commercial-law.css" crc="4044408778" ref="commercial-law"/>
-    <file name="disclaimer.css" crc="68135555" ref="disclaimer"/>
-    <file name="iefonts_disclaimer.css" crc="255881339" ref="disclaimer"/>
-    <file name="gordon-s_-johnston.css" crc="106316134" ref="gordon-s.-johnston"/>
-    <file name="iefonts_gordon-s_-johnston.css" crc="4248005448" ref="gordon-s.-johnston"/>
-    <file name="andrew-h_-stuart.css" crc="389472396" ref="andrew-h.-stuart"/>
-    <file name="iefonts_andrew-h_-stuart.css" crc="414319201" ref="andrew-h.-stuart"/>
-    <file name="intellectual-property.css" crc="4190372114" ref="intellectual-property"/>
-    <file name="iefonts_intellectual-property.css" crc="252202" ref="intellectual-property"/>
-    <file name="index.css" crc="3899597430" ref="index"/>
-    <file name="iefonts_index.css" crc="4089898280" ref="index"/>
-    <file name="attorneys.css" crc="4045806021" ref="attorneys"/>
-    <file name="iefonts_attorneys.css" crc="459093943" ref="attorneys"/>
-    <file name="trial---appellate-work.css" crc="265964585" ref="trial---appellate-work"/>
-    <file name="iefonts_trial---appellate-work.css" crc="64784903" ref="trial---appellate-work"/>
-    <file name="privacy-statement.css" crc="4264893515" ref="privacy-statement"/>
-    <file name="iefonts_privacy-statement.css" crc="74838491" ref="privacy-statement"/>
-    <file name="practice-areas.css" crc="17035435" ref="practice-areas"/>
-    <file name="iefonts_practice-areas.css" crc="4013751497" ref="practice-areas"/>
-    <file name="terms-and-conditions.css" crc="3904036532" ref="terms-and-conditions"/>
-    <file name="iefonts_terms-and-conditions.css" crc="3801432888" ref="terms-and-conditions"/>
-    <file name="business-disputes.css" crc="190797028" ref="business-disputes"/>
-    <file name="iefonts_business-disputes.css" crc="78455811" ref="business-disputes"/>
-    <file name="labor--employment-law.css" crc="249378808" ref="labor--employment-law"/>
-    <file name="iefonts_labor--employment-law.css" crc="459208941" ref="labor--employment-law"/>
+    <file name="master_a-master.css" crc="4176619401" ref="about-the-firm:contact-us:elizabeth-a.-stuart:publications:christina-dill:what-our-clients-say:blog:matt-hood:fredrick-a.-stuart:commercial-law:disclaimer:gordon-s.-johnston:andrew-h.-stuart:intellectual-property:index:attorneys:trial---appellate-work:privacy-statement:practice-areas:terms-and-conditions:business-disputes:labor--employment-law:faq"/>
+    <file name="about-the-firm.css" crc="383690298" ref="about-the-firm"/>
+    <file name="iefonts_about-the-firm.css" crc="3814170224" ref="about-the-firm"/>
+    <file name="contact-us.css" crc="3872196475" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="209622596" ref="contact-us"/>
+    <file name="elizabeth-a_-stuart.css" crc="401232797" ref="elizabeth-a.-stuart"/>
+    <file name="iefonts_elizabeth-a_-stuart.css" crc="319640122" ref="elizabeth-a.-stuart"/>
+    <file name="publications.css" crc="133274710" ref="publications"/>
+    <file name="iefonts_publications.css" crc="338009475" ref="publications"/>
+    <file name="christina-dill.css" crc="255241666" ref="christina-dill"/>
+    <file name="iefonts_christina-dill.css" crc="459007456" ref="christina-dill"/>
+    <file name="what-our-clients-say.css" crc="389066823" ref="what-our-clients-say"/>
+    <file name="iefonts_what-our-clients-say.css" crc="384598800" ref="what-our-clients-say"/>
+    <file name="blog.css" crc="4230273121" ref="blog"/>
+    <file name="iefonts_blog.css" crc="345681176" ref="blog"/>
+    <file name="matt-hood.css" crc="475364650" ref="matt-hood"/>
+    <file name="iefonts_matt-hood.css" crc="4135667490" ref="matt-hood"/>
+    <file name="fredrick-a_-stuart.css" crc="4022853453" ref="fredrick-a.-stuart"/>
+    <file name="iefonts_fredrick-a_-stuart.css" crc="111179604" ref="fredrick-a.-stuart"/>
+    <file name="commercial-law.css" crc="212889531" ref="commercial-law"/>
+    <file name="iefonts_commercial-law.css" crc="230335915" ref="commercial-law"/>
+    <file name="disclaimer.css" crc="29830238" ref="disclaimer"/>
+    <file name="iefonts_disclaimer.css" crc="3777423401" ref="disclaimer"/>
+    <file name="gordon-s_-johnston.css" crc="3985325468" ref="gordon-s.-johnston"/>
+    <file name="iefonts_gordon-s_-johnston.css" crc="3808524847" ref="gordon-s.-johnston"/>
+    <file name="andrew-h_-stuart.css" crc="3877678144" ref="andrew-h.-stuart"/>
+    <file name="iefonts_andrew-h_-stuart.css" crc="3826802688" ref="andrew-h.-stuart"/>
+    <file name="intellectual-property.css" crc="4160163535" ref="intellectual-property"/>
+    <file name="iefonts_intellectual-property.css" crc="204044124" ref="intellectual-property"/>
+    <file name="index.css" crc="4002217557" ref="index"/>
+    <file name="iefonts_index.css" crc="3998078065" ref="index"/>
+    <file name="attorneys.css" crc="527431457" ref="attorneys"/>
+    <file name="iefonts_attorneys.css" crc="305949281" ref="attorneys"/>
+    <file name="trial---appellate-work.css" crc="4278428125" ref="trial---appellate-work"/>
+    <file name="iefonts_trial---appellate-work.css" crc="509066078" ref="trial---appellate-work"/>
+    <file name="privacy-statement.css" crc="4096081089" ref="privacy-statement"/>
+    <file name="iefonts_privacy-statement.css" crc="482005673" ref="privacy-statement"/>
+    <file name="practice-areas.css" crc="3986691519" ref="practice-areas"/>
+    <file name="iefonts_practice-areas.css" crc="536024455" ref="practice-areas"/>
+    <file name="terms-and-conditions.css" crc="344096620" ref="terms-and-conditions"/>
+    <file name="iefonts_terms-and-conditions.css" crc="507563850" ref="terms-and-conditions"/>
+    <file name="business-disputes.css" crc="4204241200" ref="business-disputes"/>
+    <file name="iefonts_business-disputes.css" crc="421926234" ref="business-disputes"/>
+    <file name="labor--employment-law.css" crc="4136268124" ref="labor--employment-law"/>
+    <file name="iefonts_labor--employment-law.css" crc="114674100" ref="labor--employment-law"/>
+    <file name="faq.css" crc="4230273121" ref="faq"/>
+    <file name="iefonts_faq.css" crc="345681176" ref="faq"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="museutils.js" crc="3777594392" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="pie.js" crc="3827607177" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="jquery.musemenu.js" crc="415733523" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="museutils.js" crc="3777594392" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
     <file name="webpro.js" crc="474087315" ref="contact-us"/>
     <file name="form_check.php" crc="306825315" ref="contact-us"/>
     <file name="form_throttle.php" crc="4293816517" ref="contact-us"/>
@@ -61,10 +63,10 @@
     <file name="form-u2399.php" crc="344068133" ref="contact-us"/>
   </folder>
   <folder name="images">
-    <file name="header_nophone.png" crc="3783120213" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="phone.png" crc="57619164" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="main.jpg" crc="3904124413" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law"/>
-    <file name="stuart logo.png" crc="413343697" ref="index"/>
+    <file name="header_nophone.png" crc="263701913" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="phone.png" crc="57619164" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="main.jpg" crc="3904124413" ref="index:about-the-firm:attorneys:practice-areas:what-our-clients-say:publications:blog:contact-us:commercial-law:business-disputes:trial---appellate-work:intellectual-property:fredrick-a.-stuart:andrew-h.-stuart:elizabeth-a.-stuart:gordon-s.-johnston:matt-hood:christina-dill:disclaimer:privacy-statement:terms-and-conditions:labor--employment-law:faq"/>
+    <file name="stuart logo.png" crc="283210894" ref="index"/>
     <file name="about_us_thumb.jpg" crc="3840030926" ref="about-the-firm"/>
     <file name="fred_stuart_thumb_ii179x204.jpg" crc="293020185" ref="attorneys"/>
     <file name="andrew_stuart_thumb149x205.jpg" crc="3934562990" ref="attorneys"/>
@@ -86,26 +88,27 @@
     <file name="trial_thumb.jpg" crc="160427935" ref="trial---appellate-work"/>
     <file name="diputes_thumb.jpg" crc="460935207" ref="business-disputes"/>
   </folder>
-  <file name="index.html" crc="4036870477" mt="1420748306428" redirect="true"/>
-  <file name="about-the-firm.html" crc="4227718942" mt="1420748306429" redirect="true"/>
-  <file name="attorneys.html" crc="460751523" mt="1420748306430" redirect="true"/>
-  <file name="practice-areas.html" crc="440947715" mt="1420748306430" redirect="true"/>
-  <file name="what-our-clients-say.html" crc="301638826" mt="1420748306435" redirect="true"/>
-  <file name="publications.html" crc="4218362743" mt="1420748306431" redirect="true"/>
-  <file name="blog.html" crc="139588469" mt="1420748306431" redirect="true"/>
-  <file name="contact-us.html" crc="4173354928" mt="1420748306432" redirect="true"/>
-  <file name="commercial-law.html" crc="3776100853" mt="1420748306436" redirect="true"/>
-  <file name="business-disputes.html" crc="367985632" mt="1420748306437" redirect="true"/>
-  <file name="trial---appellate-work.html" crc="3947675985" mt="1420748306437" redirect="true"/>
-  <file name="intellectual-property.html" crc="4144946569" mt="1420748306436" redirect="true"/>
-  <file name="fredrick-a.-stuart.html" crc="414178979" mt="1420748306432" redirect="true"/>
-  <file name="andrew-h.-stuart.html" crc="45348642" mt="1420748306433" redirect="true"/>
-  <file name="elizabeth-a.-stuart.html" crc="2043776" mt="1420748306433" redirect="true"/>
-  <file name="gordon-s.-johnston.html" crc="3925617316" mt="1420748306434" redirect="true"/>
-  <file name="matt-hood.html" crc="244493725" mt="1420748306434" redirect="true"/>
-  <file name="christina-dill.html" crc="12870888" mt="1420748306435" redirect="true"/>
-  <file name="disclaimer.html" crc="214687086" mt="1420748306438" redirect="true"/>
-  <file name="privacy-statement.html" crc="81553829" mt="1420748306438" redirect="true"/>
-  <file name="terms-and-conditions.html" crc="4198123470" mt="1420748306439" redirect="true"/>
-  <file name="labor--employment-law.html" crc="4047410401" mt="1420748306436" redirect="true"/>
+  <file name="index.html" crc="294625120" mt="1420753168404" redirect="true"/>
+  <file name="about-the-firm.html" crc="402031403" mt="1420753168407" redirect="true"/>
+  <file name="attorneys.html" crc="267565723" mt="1420753168407" redirect="true"/>
+  <file name="practice-areas.html" crc="3888315445" mt="1420753168408" redirect="true"/>
+  <file name="what-our-clients-say.html" crc="4169426258" mt="1420753168413" redirect="true"/>
+  <file name="publications.html" crc="315024894" mt="1420753168409" redirect="true"/>
+  <file name="blog.html" crc="140592256" mt="1420753168409" redirect="true"/>
+  <file name="contact-us.html" crc="3884394051" mt="1420753168410" redirect="true"/>
+  <file name="commercial-law.html" crc="375280576" mt="1420753168415" redirect="true"/>
+  <file name="business-disputes.html" crc="343177" mt="1420753168416" redirect="true"/>
+  <file name="trial---appellate-work.html" crc="3798624946" mt="1420753168415" redirect="true"/>
+  <file name="intellectual-property.html" crc="8813760" mt="1420753168414" redirect="true"/>
+  <file name="fredrick-a.-stuart.html" crc="3979200395" mt="1420753168410" redirect="true"/>
+  <file name="andrew-h.-stuart.html" crc="4215978908" mt="1420753168411" redirect="true"/>
+  <file name="elizabeth-a.-stuart.html" crc="4109506496" mt="1420753168411" redirect="true"/>
+  <file name="gordon-s.-johnston.html" crc="4092587149" mt="1420753168412" redirect="true"/>
+  <file name="matt-hood.html" crc="4232112444" mt="1420753168412" redirect="true"/>
+  <file name="christina-dill.html" crc="421959122" mt="1420753168413" redirect="true"/>
+  <file name="disclaimer.html" crc="3905627358" mt="1420753168416" redirect="true"/>
+  <file name="privacy-statement.html" crc="192858093" mt="1420753168417" redirect="true"/>
+  <file name="terms-and-conditions.html" crc="286615118" mt="1420753168417" redirect="true"/>
+  <file name="labor--employment-law.html" crc="4099230885" mt="1420753168414" redirect="true"/>
+  <file name="faq.html" crc="148712963" mt="1420753168418" redirect="true"/>
 </manifest>

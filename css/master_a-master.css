@@ -660,12 +660,46 @@
 	background-color: #6B6B6B;
 }
 
-#u207.MuseMenuActive,#u216.MuseMenuActive,#u222.MuseMenuActive,#u231.MuseMenuActive,#u1717.MuseMenuActive,#u245.MuseMenuActive,#u285.MuseMenuActive,#u257.MuseMenuActive
+#u260-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: josefin-slab, serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u2507
+{
+	background-color: #A5A5A5;
+	-moz-border-radius: 0px 0px 10px 10px ;
+	-webkit-border-radius: 0px 0px 10px 10px ;
+	-khtml-border-radius: 0px 0px 10px 10px ;
+	border-radius: 0px 0px 10px 10px ;
+	position: relative;
+}
+
+#u2507:hover
+{
+	background-color: #999999;
+}
+
+#u2507:active
+{
+	background-color: #6B6B6B;
+}
+
+#u207.MuseMenuActive,#u216.MuseMenuActive,#u222.MuseMenuActive,#u231.MuseMenuActive,#u1717.MuseMenuActive,#u245.MuseMenuActive,#u285.MuseMenuActive,#u257.MuseMenuActive,#u2507.MuseMenuActive
 {
 	background-color: #4B4B4B;
 }
 
-#u260-4
+#u2508-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -728,15 +762,7 @@
 	position: relative;
 }
 
-#u1010-4,#u1029-4,#u1020-4,#u1028-4,#u1021-4,#u1027-4,#u1023-4,#u1026-4,#u1022-4,#u1025-4,#u1024-4,#u1062-4,#u1067-4,#u1066-4,#u1065-4
-{
-	background-color: transparent;
-	font-family: droid-serif, serif;
-	font-weight: 400;
-	position: relative;
-}
-
-#u206,#u213,#u2245,#u2293,#u2330,#u221,#u227,#u542,#u1423,#u1483,#u1513,#u1542,#u1604,#u228,#u230,#u1915,#u1990,#u2066,#u2038,#u1821,#u1716,#u242,#u284,#u256,#u668,#u677,#u1069-15
+#u2543,#u206,#u213,#u2245,#u2293,#u2330,#u221,#u227,#u542,#u1423,#u1483,#u1513,#u1542,#u1604,#u228,#u230,#u1915,#u1990,#u2066,#u2038,#u1821,#u1716,#u242,#u284,#u256,#u2506,#u677,#u1069-15
 {
 	background-color: transparent;
 	position: relative;
@@ -754,6 +780,14 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	position: relative;
+}
+
+#u1010-4,#u1029-4,#u1020-4,#u1028-4,#u1021-4,#u1027-4,#u1023-4,#u1026-4,#u1022-4,#u1025-4,#u1024-4,#u1062-4,#u1067-4,#u1066-4,#u1065-4,#u2552-4
+{
+	background-color: transparent;
+	font-family: droid-serif, serif;
+	font-weight: 400;
 	position: relative;
 }
 

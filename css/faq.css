@@ -1,7 +1,7 @@
-.version.about_the_firm /* version checker */
+.version.faq /* version checker */
 {
-	color: #000016;
-	background-color: #DEA63A;
+	color: #0000FC;
+	background-color: #24D861;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1390px;
+	min-height: 801px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
@@ -30,7 +30,7 @@
 #page_position_content
 {
 	margin-top: -5px;
-	padding-bottom: 18px;
+	padding-bottom: 19px;
 }
 
 #pu2543
@@ -1122,74 +1122,11 @@
 	left: 752px;
 }
 
-#pu2360-8
-{
-	width: 0.01px;
-	margin-left: 43px;
-	margin-top: 6px;
-}
-
-#u2360-8
-{
-	z-index: 264;
-	width: 409px;
-	min-height: 71px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2360-2
-{
-	font-size: 25px;
-	text-align: justify;
-	line-height: 30px;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
-}
-
-#u2361
-{
-	z-index: 272;
-	width: 481px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 415px;
-}
-
-#u2361_img
-{
-	padding-right: 1px;
-}
-
-#u2387-11
-{
-	z-index: 274;
-	width: 862px;
-	min-height: 274px;
-	background-color: transparent;
-	margin-left: 43px;
-	margin-top: 8px;
-	position: relative;
-}
-
-#u2360-3,#u2360-5,#u2387-2,#u2387-3,#u2387-5,#u2387-6,#u2387-8
-{
-	text-align: justify;
-	font-family: droid-serif, serif;
-	font-weight: 400;
-}
-
 #pu2459
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 89px;
+	margin-top: 339px;
 }
 
 #u2459
@@ -1437,7 +1374,7 @@
 	width: 128px;
 	min-height: 20px;
 	margin-right: -10000px;
-	margin-top: 178px;
+	margin-top: 177px;
 	left: 188px;
 }
 
