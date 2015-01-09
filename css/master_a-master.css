@@ -1,5 +1,8 @@
 #u207
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -27,13 +30,15 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u216
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -61,8 +66,7 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -100,8 +104,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -129,8 +132,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -158,13 +160,15 @@
 	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u222
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -192,8 +196,7 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -219,8 +222,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -246,8 +248,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -273,8 +274,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -300,8 +300,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -327,8 +326,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -354,13 +352,15 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u231
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -388,8 +388,7 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -420,8 +419,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -447,8 +445,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -474,8 +471,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -501,8 +497,7 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -533,13 +528,15 @@
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 600;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u1717
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -567,13 +564,15 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u245
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -601,13 +600,15 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u285
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -635,13 +636,15 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u257
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -669,13 +672,15 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
 #u2507
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #A5A5A5;
 	-moz-border-radius: 0px 0px 10px 10px ;
 	-webkit-border-radius: 0px 0px 10px 10px ;
@@ -708,8 +713,7 @@
 	font-size: 16px;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -733,8 +737,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	text-align: center;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
@@ -757,8 +760,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	color: #FFFFFF;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 }
 
