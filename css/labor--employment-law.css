@@ -1,12 +1,12 @@
 .version.labor__employment_law /* version checker */
 {
-	color: #0000F6;
-	background-color: #8A715C;
+	color: #000003;
+	background-color: #E72721;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #736357;
 }
 
 #page
@@ -18,7 +18,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	background-color: transparent;
+	background-color: #C7B299;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 	-khtml-border-radius: 10px;
@@ -57,24 +57,35 @@
 
 #u206
 {
-	width: 64px;
+	width: 65px;
 	min-height: 41px;
 	margin-right: -10000px;
 }
 
 #u207
 {
-	width: 64px;
-	padding-bottom: 22px;
+	width: 63px;
+	padding-bottom: 20px;
 }
 
 #u207:hover
 {
+	width: 63px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u207:active
 {
+	width: 63px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u207.MuseMenuActive
+{
+	width: 63px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -83,7 +94,7 @@
 	width: 43px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
+	top: 10px;
 	left: 10px;
 }
 
@@ -108,31 +119,42 @@
 	width: 133px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 66px;
+	left: 67px;
 }
 
 #u216
 {
-	width: 133px;
-	padding-bottom: 22px;
+	width: 131px;
+	padding-bottom: 20px;
 }
 
-#u207.MuseMenuActive,#u216:hover
+#u216:hover
 {
+	width: 131px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u216:active
 {
+	width: 131px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u216.MuseMenuActive
+{
+	width: 131px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u219-4
 {
-	width: 112px;
+	width: 111px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
+	top: 10px;
 	left: 10px;
 }
 
@@ -174,14 +196,14 @@
 
 #u2248-4
 {
-	width: 69px;
+	width: 71px;
 	min-height: 18px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 43px;
+	left: 42px;
 }
 
 #u2246:hover #u2248-4
@@ -208,14 +230,14 @@
 
 #u2296-4
 {
-	width: 123px;
+	width: 126px;
 	min-height: 18px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 16px;
+	left: 15px;
 }
 
 #u2246.MuseMenuActive #u2248-4,#u2294:hover #u2296-4
@@ -254,14 +276,14 @@
 
 #u2336-4
 {
-	width: 145px;
+	width: 149px;
 	min-height: 18px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 5px;
+	left: 3px;
 }
 
 #u2294.MuseMenuActive #u2296-4,#u2333:hover #u2336-4
@@ -282,34 +304,45 @@
 
 #u221
 {
-	width: 91px;
+	width: 92px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 201px;
+	left: 202px;
 }
 
 #u222
 {
-	width: 91px;
-	padding-bottom: 22px;
+	width: 90px;
+	padding-bottom: 20px;
 }
 
-#u216.MuseMenuActive,#u222:hover
+#u222:hover
 {
+	width: 90px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u222:active
 {
+	width: 90px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u222.MuseMenuActive
+{
+	width: 90px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u225-4
 {
-	width: 71px;
+	width: 70px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
+	top: 10px;
 	left: 10px;
 }
 
@@ -351,14 +384,14 @@
 
 #u545-4
 {
-	width: 111px;
+	width: 116px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 51px;
+	left: 48px;
 }
 
 #u543:hover #u545-4
@@ -385,14 +418,14 @@
 
 #u1427-4
 {
-	width: 112px;
+	width: 115px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 50px;
+	left: 49px;
 }
 
 #u543.MuseMenuActive #u545-4,#u1424:hover #u1427-4
@@ -419,14 +452,14 @@
 
 #u1489-4
 {
-	width: 120px;
+	width: 125px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 46px;
+	left: 44px;
 }
 
 #u1424.MuseMenuActive #u1427-4,#u1486:hover #u1489-4
@@ -453,14 +486,14 @@
 
 #u1515-4
 {
-	width: 114px;
+	width: 130px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 49px;
+	left: 41px;
 }
 
 #u1486.MuseMenuActive #u1489-4,#u1514:hover #u1515-4
@@ -487,14 +520,14 @@
 
 #u1546-4
 {
-	width: 69px;
+	width: 70px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 72px;
+	left: 71px;
 }
 
 #u1514.MuseMenuActive #u1515-4,#u1545:hover #u1546-4
@@ -553,35 +586,46 @@
 
 #u228
 {
-	width: 121px;
+	width: 125px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 294px;
+	left: 296px;
 }
 
 #u231
 {
-	width: 121px;
-	padding-bottom: 22px;
+	width: 123px;
+	padding-bottom: 20px;
 }
 
-#u222.MuseMenuActive,#u231:hover
+#u231:hover
 {
+	width: 123px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u231:active
 {
+	width: 123px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u231.MuseMenuActive
+{
+	width: 123px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u232-4
 {
-	width: 101px;
+	width: 104px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
-	left: 10px;
+	top: 10px;
+	left: 9px;
 }
 
 #u222.MuseMenuActive #u225-4,#u231:hover #u232-4
@@ -656,7 +700,7 @@
 
 #u1994-4
 {
-	width: 106px;
+	width: 105px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
@@ -690,14 +734,14 @@
 
 #u2070-4
 {
-	width: 104px;
+	width: 118px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 69px;
+	left: 62px;
 }
 
 #u1993.MuseMenuActive #u1994-4,#u2069:hover #u2070-4
@@ -724,14 +768,14 @@
 
 #u2042-4
 {
-	width: 152px;
+	width: 144px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 45px;
+	left: 49px;
 }
 
 #u2069.MuseMenuActive #u2070-4,#u2041:hover #u2042-4
@@ -770,14 +814,14 @@
 
 #u1826-4
 {
-	width: 127px;
+	width: 135px;
 	min-height: 17px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 57px;
+	left: 53px;
 }
 
 #u2041.MuseMenuActive #u2042-4,#u1824:hover #u1826-4
@@ -798,35 +842,46 @@
 
 #u1716
 {
-	width: 183px;
+	width: 177px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 417px;
+	left: 423px;
 }
 
 #u1717
 {
-	width: 183px;
-	padding-bottom: 22px;
+	width: 175px;
+	padding-bottom: 20px;
 }
 
-#u231.MuseMenuActive,#u1717:hover
+#u1717:hover
 {
+	width: 175px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u1717:active
 {
+	width: 175px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1717.MuseMenuActive
+{
+	width: 175px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u1719-4
 {
-	width: 163px;
+	width: 156px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
-	left: 10px;
+	top: 10px;
+	left: 9px;
 }
 
 #u231.MuseMenuActive #u232-4,#u1717:hover #u1719-4
@@ -847,7 +902,7 @@
 
 #u242
 {
-	width: 107px;
+	width: 110px;
 	min-height: 41px;
 	margin-right: -10000px;
 	left: 602px;
@@ -855,27 +910,38 @@
 
 #u245
 {
-	width: 107px;
-	padding-bottom: 22px;
+	width: 108px;
+	padding-bottom: 20px;
 }
 
-#u1717.MuseMenuActive,#u245:hover
+#u245:hover
 {
+	width: 108px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u245:active
 {
+	width: 108px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u245.MuseMenuActive
+{
+	width: 108px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u246-4
 {
-	width: 87px;
+	width: 89px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
-	left: 10px;
+	top: 10px;
+	left: 9px;
 }
 
 #u1717.MuseMenuActive #u1719-4,#u245:hover #u246-4
@@ -896,25 +962,36 @@
 
 #u284
 {
-	width: 52px;
+	width: 53px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 711px;
+	left: 714px;
 }
 
 #u285
 {
-	width: 52px;
-	padding-bottom: 22px;
+	width: 51px;
+	padding-bottom: 20px;
 }
 
-#u245.MuseMenuActive,#u285:hover
+#u285:hover
 {
+	width: 51px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u285:active
 {
+	width: 51px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u285.MuseMenuActive
+{
+	width: 51px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -923,8 +1000,8 @@
 	width: 32px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
-	left: 10px;
+	top: 10px;
+	left: 9px;
 }
 
 #u245.MuseMenuActive #u246-4,#u285:hover #u287-4
@@ -945,35 +1022,46 @@
 
 #u256
 {
-	width: 97px;
+	width: 100px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 765px;
+	left: 769px;
 }
 
 #u257
 {
-	width: 97px;
-	padding-bottom: 22px;
+	width: 98px;
+	padding-bottom: 20px;
 }
 
-#u285.MuseMenuActive,#u257:hover
+#u257:hover
 {
+	width: 98px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u257:active
 {
+	width: 98px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u257.MuseMenuActive
+{
+	width: 98px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u260-4
 {
-	width: 77px;
+	width: 79px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
-	left: 10px;
+	top: 10px;
+	left: 9px;
 }
 
 #u285.MuseMenuActive #u287-4,#u257:hover #u260-4
@@ -994,40 +1082,46 @@
 
 #u2506
 {
-	width: 56px;
+	width: 49px;
 	min-height: 41px;
 	margin-right: -10000px;
-	left: 864px;
+	left: 871px;
 }
 
 #u2507
 {
-	width: 56px;
-	padding-bottom: 22px;
+	width: 47px;
+	padding-bottom: 20px;
 }
 
-#u257.MuseMenuActive,#u2507:hover
+#u2507:hover
 {
+	width: 47px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u2507:active
 {
+	width: 47px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u2507.MuseMenuActive
 {
+	width: 47px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u2508-4
 {
-	width: 36px;
+	width: 28px;
 	min-height: 19px;
 	margin-right: -10000px;
-	top: 11px;
-	left: 10px;
+	top: 10px;
+	left: 9px;
 }
 
 #u257.MuseMenuActive #u260-4,#u2507:hover #u2508-4
@@ -1141,10 +1235,9 @@
 	width: 436px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
-	font-size: 36px;
-	font-family: josefin-slab, serif;
-	font-weight: 700;
+	font-size: 34px;
+	line-height: 41px;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 9px;
 	position: relative;
 }
@@ -1219,7 +1312,7 @@
 #u1009-4
 {
 	z-index: 184;
-	width: 239px;
+	width: 272px;
 	min-height: 24px;
 	margin-bottom: -7px;
 	margin-right: -10000px;
