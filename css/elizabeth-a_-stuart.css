@@ -1,12 +1,12 @@
 .version.elizabeth_a__stuart /* version checker */
 {
-	color: #0000F2;
-	background-color: #202356;
+	color: #000011;
+	background-color: #A2C6FF;
 }
 
 .html
 {
-	background-color: #736357;
+	background-color: #7F7F7F;
 }
 
 #page
@@ -45,6 +45,13 @@
 	width: 448px;
 	margin-right: -10000px;
 	left: 7px;
+}
+
+#u2543_img
+{
+	padding-top: 9px;
+	padding-right: 129px;
+	padding-bottom: 5px;
 }
 
 #menuu205
@@ -1157,12 +1164,22 @@
 	left: 657px;
 }
 
+#u677_img
+{
+	padding-bottom: 5px;
+}
+
 #u975
 {
 	z-index: 4;
 	width: 920px;
 	margin-left: 19px;
 	margin-top: 4px;
+}
+
+#u975_img
+{
+	padding-right: 2px;
 }
 
 #pu981-4
@@ -1222,8 +1239,8 @@
 	width: 339px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 34px;
 	line-height: 41px;
+	font-size: 34px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 38px;
 	margin-top: 19px;
@@ -1250,8 +1267,7 @@
 
 #u1476-2,#u1476-3,#u1476-5,#u1476-6,#u1476-8,#u1476-9,#u1476-11,#u1476-13,#u1476-14,#u1476-16,#u1476-18,#u1476-19,#u1476-21,#u1476-22,#u1476-24,#u1476-26,#u1476-28,#u1476-30,#u1476-32,#u1476-34,#u1476-36,#u1476-37,#u1476-39
 {
-	font-family: droid-serif, serif;
-	font-weight: 400;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 }
 
 #u1633

@@ -1,12 +1,12 @@
 .version.christina_dill /* version checker */
 {
-	color: #000009;
-	background-color: #554524;
+	color: #000000;
+	background-color: #D3E861;
 }
 
 .html
 {
-	background-color: #736357;
+	background-color: #7F7F7F;
 }
 
 #page
@@ -45,6 +45,13 @@
 	width: 448px;
 	margin-right: -10000px;
 	left: 7px;
+}
+
+#u2543_img
+{
+	padding-top: 9px;
+	padding-right: 129px;
+	padding-bottom: 5px;
 }
 
 #menuu205
@@ -1157,12 +1164,22 @@
 	left: 657px;
 }
 
+#u677_img
+{
+	padding-bottom: 5px;
+}
+
 #u975
 {
 	z-index: 4;
 	width: 920px;
 	margin-left: 19px;
 	margin-top: 4px;
+}
+
+#u975_img
+{
+	padding-right: 2px;
 }
 
 #pu981-4
@@ -1222,8 +1239,8 @@
 	width: 339px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 38px;
 	margin-top: 19px;
@@ -1244,8 +1261,7 @@
 
 #u1597-2,#u1597-3,#u1597-5,#u1597-6,#u1597-8
 {
-	font-family: droid-serif, serif;
-	font-weight: 400;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 }
 
 #pu2459

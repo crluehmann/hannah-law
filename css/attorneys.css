@@ -1,12 +1,12 @@
 .version.attorneys /* version checker */
 {
-	color: #0000F3;
-	background-color: #8EEA93;
+	color: #0000EC;
+	background-color: #FE52D6;
 }
 
 .html
 {
-	background-color: #736357;
+	background-color: #7F7F7F;
 }
 
 #page
@@ -45,6 +45,13 @@
 	width: 448px;
 	margin-right: -10000px;
 	left: 7px;
+}
+
+#u2543_img
+{
+	padding-top: 9px;
+	padding-right: 129px;
+	padding-bottom: 5px;
 }
 
 #menuu205
@@ -1157,12 +1164,22 @@
 	left: 657px;
 }
 
+#u677_img
+{
+	padding-bottom: 5px;
+}
+
 #u975
 {
 	z-index: 4;
 	width: 920px;
 	margin-left: 19px;
 	margin-top: 4px;
+}
+
+#u975_img
+{
+	padding-right: 2px;
 }
 
 #pu981-4
@@ -1297,7 +1314,7 @@
 #pu1669-4
 {
 	width: 0.01px;
-	margin-left: 30px;
+	margin-left: 35px;
 	margin-top: 2px;
 }
 
@@ -1307,8 +1324,8 @@
 	width: 149px;
 	min-height: 23px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1320,8 +1337,8 @@
 	width: 149px;
 	min-height: 23px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1334,12 +1351,12 @@
 	width: 152px;
 	min-height: 23px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 373px;
+	left: 365px;
 }
 
 #u1689-4
@@ -1348,8 +1365,8 @@
 	width: 159px;
 	min-height: 23px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1362,8 +1379,8 @@
 	width: 87px;
 	min-height: 23px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1376,8 +1393,8 @@
 	width: 109px;
 	min-height: 23px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 426px;
 	margin-top: 54px;

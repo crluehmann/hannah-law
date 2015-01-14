@@ -1,12 +1,12 @@
 .version.commercial_law /* version checker */
 {
-	color: #000019;
-	background-color: #543008;
+	color: #000017;
+	background-color: #B4A54B;
 }
 
 .html
 {
-	background-color: #736357;
+	background-color: #7F7F7F;
 }
 
 #page
@@ -45,6 +45,13 @@
 	width: 448px;
 	margin-right: -10000px;
 	left: 7px;
+}
+
+#u2543_img
+{
+	padding-top: 9px;
+	padding-right: 129px;
+	padding-bottom: 5px;
 }
 
 #menuu205
@@ -1157,12 +1164,22 @@
 	left: 657px;
 }
 
+#u677_img
+{
+	padding-bottom: 5px;
+}
+
 #u975
 {
 	z-index: 4;
 	width: 920px;
 	margin-left: 19px;
 	margin-top: 4px;
+}
+
+#u975_img
+{
+	padding-right: 2px;
 }
 
 #u981-4
@@ -1215,8 +1232,8 @@
 	width: 436px;
 	min-height: 47px;
 	background-color: transparent;
-	font-size: 34px;
 	line-height: 41px;
+	font-size: 34px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 38px;
 	margin-top: 19px;
@@ -1237,10 +1254,19 @@
 	min-height: 562px;
 	background-color: transparent;
 	text-align: justify;
-	font-family: droid-serif, serif;
-	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u1985-2,#u1985-3,#u1985-5,#u1985-6,#u1985-8,#u1985-9,#u1985-11,#u1985-12,#u1985-14,#u1985-15,#u1985-17
+{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#u1985-18
+{
+	font-family: droid-serif, serif;
+	font-weight: 400;
 }
 
 #u2113

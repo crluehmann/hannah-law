@@ -1,12 +1,12 @@
 .version.practice_areas /* version checker */
 {
-	color: #00001E;
-	background-color: #5D2B22;
+	color: #0000E3;
+	background-color: #DF4210;
 }
 
 .html
 {
-	background-color: #736357;
+	background-color: #7F7F7F;
 }
 
 #page
@@ -45,6 +45,13 @@
 	width: 448px;
 	margin-right: -10000px;
 	left: 7px;
+}
+
+#u2543_img
+{
+	padding-top: 9px;
+	padding-right: 129px;
+	padding-bottom: 5px;
 }
 
 #menuu205
@@ -1157,12 +1164,22 @@
 	left: 657px;
 }
 
+#u677_img
+{
+	padding-bottom: 5px;
+}
+
 #u975
 {
 	z-index: 4;
 	width: 920px;
 	margin-left: 19px;
 	margin-top: 4px;
+}
+
+#u975_img
+{
+	padding-right: 2px;
 }
 
 #pu981-4
@@ -1221,8 +1238,8 @@
 	z-index: 282;
 	width: 189px;
 	background-color: transparent;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 386px;
 	margin-top: 23px;
